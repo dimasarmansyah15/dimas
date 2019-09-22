@@ -1,0 +1,2 @@
+# dimas
+Teknologi Komputer
